@@ -3,6 +3,9 @@
 This repository contains data mainly for the Honeycomb Caspian standalone app at https://github.com/nasa-jpl/honeycomb.
 
 ## M2020 Sol 122
+
+https://github.com/user-attachments/assets/1d39fe77-f64a-4f9d-bb0d-54f1b119e524
+
 See:
 - `configs/json/2021-06-25-20-14-48_sol00122.json`
 - `data/sol00122`
