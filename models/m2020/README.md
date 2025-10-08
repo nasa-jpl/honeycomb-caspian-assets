@@ -1,0 +1,1 @@
+Copied from https://github.com/nasa-jpl/m2020-urdf-models
