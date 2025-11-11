@@ -1,0 +1,63 @@
+I~
+{ composite
+ { transform
+  { file ./wedge/M20_PrimeMission_HiRISE_BSM_L020829_S037270_001024_001024.ht }
+  255.999978 -256.000022 1.000000 0 0 1.000000 }
+ { transform
+  { file ./wedge/M20_PrimeMission_HiRISE_BSM_L020829_S038293_001024_001024.ht }
+  255.999978 -0.000022 1.000000 0 0 1.000000 }
+ { transform
+  { file ./wedge/M20_PrimeMission_HiRISE_BSM_L020829_S039316_001024_001024.ht }
+  255.999978 255.999978 1.000000 0 0 1.000000 }
+ { transform
+  { file ./wedge/M20_PrimeMission_HiRISE_BSM_L020829_S040339_001024_001024.ht }
+  255.999978 511.999978 1.000000 0 0 1.000000 }
+ { transform
+  { file ./wedge/M20_PrimeMission_HiRISE_BSM_L021852_S037270_001024_001024.ht }
+  -0.000022 -256.000022 1.000000 0 0 1.000000 }
+ { transform
+  { file ./wedge/M20_PrimeMission_HiRISE_BSM_L021852_S038293_001024_001024.ht }
+  -0.000022 -0.000022 1.000000 0 0 1.000000 }
+ { transform
+  { file ./wedge/M20_PrimeMission_HiRISE_BSM_L021852_S039316_001024_001024.ht }
+  -0.000022 255.999978 1.000000 0 0 1.000000 }
+ { transform
+  { file ./wedge/M20_PrimeMission_HiRISE_BSM_L021852_S040339_001024_001024.ht }
+  -0.000022 511.999978 1.000000 0 0 1.000000 }
+ { transform
+  { file ./wedge/M20_PrimeMission_HiRISE_BSM_L022875_S037270_001024_001024.ht }
+  -256.000022 -256.000022 1.000000 0 0 1.000000 }
+ { transform
+  { file ./wedge/M20_PrimeMission_HiRISE_BSM_L022875_S038293_001024_001024.ht }
+  -256.000022 -0.000022 1.000000 0 0 1.000000 }
+ { transform
+  { file ./wedge/M20_PrimeMission_HiRISE_BSM_L022875_S039316_001024_001024.ht }
+  -256.000022 255.999978 1.000000 0 0 1.000000 }
+ { transform
+  { file ./wedge/M20_PrimeMission_HiRISE_BSM_L022875_S040339_001024_001024.ht }
+  -256.000022 511.999978 1.000000 0 0 1.000000 }
+ { transform
+  { file ./wedge/M20_PrimeMission_HiRISE_BSM_L023898_S037270_001024_001024.ht }
+  -512.000022 -256.000022 1.000000 0 0 1.000000 }
+ { transform
+  { file ./wedge/M20_PrimeMission_HiRISE_BSM_L023898_S038293_001024_001024.ht }
+  -512.000022 -0.000022 1.000000 0 0 1.000000 }
+ { transform
+  { file ./wedge/M20_PrimeMission_HiRISE_BSM_L023898_S039316_001024_001024.ht }
+  -512.000022 255.999978 1.000000 0 0 1.000000 }
+ { transform
+  { file ./wedge/M20_PrimeMission_HiRISE_BSM_L023898_S040339_001024_001024.ht }
+  -512.000022 511.999978 1.000000 0 0 1.000000 }
+ { transform
+  { file ./wedge/M20_PrimeMission_HiRISE_BSM_L024921_S037270_001024_001024.ht }
+  -768.000023 -256.000022 1.000000 0 0 1.000000 }
+ { transform
+  { file ./wedge/M20_PrimeMission_HiRISE_BSM_L024921_S038293_001024_001024.ht }
+  -768.000022 -0.000022 1.000000 0 0 1.000000 }
+ { transform
+  { file ./wedge/M20_PrimeMission_HiRISE_BSM_L024921_S039316_001024_001024.ht }
+  -768.000022 255.999978 1.000000 0 0 1.000000 }
+ { transform
+  { file ./wedge/M20_PrimeMission_HiRISE_BSM_L024921_S040339_001024_001024.ht }
+  -768.000022 511.999978 1.000000 0 0 1.000000 }
+}
